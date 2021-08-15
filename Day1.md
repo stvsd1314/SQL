@@ -18,8 +18,8 @@ MySQL学习
  desc 表名；
 - 7. 查看服务器版本
  方式1：登录到mysql服务器
- select version()
- 方式2：没有登录到mysql服务器
+ select version()\
+ 方式2：没有登录到mysql服务器\
  mysql --version\
  或者\
  mysql --V
